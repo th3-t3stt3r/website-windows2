@@ -1,0 +1,8 @@
+{
+    "event_count_trigger": 30,
+    "unknow_extension_event_count_trigger": 3,
+    "check_ransom_time": 3,
+    "time_to_check_io": 1,
+    "pdfs_to_generate": 10000,
+    "auto_restore_system": false
+}
